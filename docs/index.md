@@ -1,7 +1,9 @@
 
-<details><summary>di bob diagnostic</summary>
+<details>
+	
+<summary>di bob diagnostic</summary>
 
-<pre>
+```
 
 ...
     {
@@ -9,7 +11,7 @@
     }
 ...    
 
-</pre>
+```
 
 
 ##### Next steps:
