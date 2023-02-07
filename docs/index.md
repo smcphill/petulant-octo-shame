@@ -1,16 +1,12 @@
 
 <details><summary>di bob diagnostic</summary>
-<p>
-
-```
+<pre>
 ...
     {
 	"hello": "Bob"
     }
 ...    
-```
-
-</p>
+</pre>
 
 Next steps:
 
