@@ -1,3 +1,8 @@
+---
+id: documentation
+title: Contributing Documentation
+sidebar_label: Documentation
+---
 
 <details>
 	
