@@ -1,0 +1,15 @@
+# PCCHISTORY-180
+# Currently using dependabot to track version updates for Liquibase, which we
+# are obligated to use within 3 weeks of release.
+# This check utilises `Dockerfile.DO.NOT.USE.dependabot-updates-for-liquibase`
+#
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
