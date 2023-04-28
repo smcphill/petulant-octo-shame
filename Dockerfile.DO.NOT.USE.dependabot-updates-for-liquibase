@@ -4,7 +4,7 @@
 # Why we need this: https://zendesk.atlassian.net/browse/PCCHISTORY-180
 
 # liquibase
-FROM liquibase/liquibase:4.21.1
+FROM liquibase/liquibase:4.16.1
 # ubuntu-20.04
 COPY --from=713408432298.dkr.ecr.us-west-2.amazonaws.com/base/zendesk/docker-images-base/ubuntu:focal /usr/local/bin/dumb-init /usr/local/bin/wait_for_envoy /usr/local/bin
 
