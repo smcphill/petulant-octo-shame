@@ -4,4 +4,4 @@
 # Why we need this: https://zendesk.atlassian.net/browse/PCCHISTORY-180
 
 # liquibase
-FROM liquibase/liquibase:4.18.1
+FROM liquibase/liquibase:4.21.1
